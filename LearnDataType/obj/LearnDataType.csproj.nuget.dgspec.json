@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "i:\\new\\CsharpProjects\\LearnDataType\\LearnDataType.csproj": {}
+    "I:\\new\\CsharpProjects\\LearnDataType\\LearnDataType.csproj": {}
   },
   "projects": {
-    "i:\\new\\CsharpProjects\\LearnDataType\\LearnDataType.csproj": {
+    "I:\\new\\CsharpProjects\\LearnDataType\\LearnDataType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "i:\\new\\CsharpProjects\\LearnDataType\\LearnDataType.csproj",
+        "projectUniqueName": "I:\\new\\CsharpProjects\\LearnDataType\\LearnDataType.csproj",
         "projectName": "LearnDataType",
-        "projectPath": "i:\\new\\CsharpProjects\\LearnDataType\\LearnDataType.csproj",
+        "projectPath": "I:\\new\\CsharpProjects\\LearnDataType\\LearnDataType.csproj",
         "packagesPath": "C:\\Users\\manoj\\.nuget\\packages\\",
-        "outputPath": "i:\\new\\CsharpProjects\\LearnDataType\\obj\\",
+        "outputPath": "I:\\new\\CsharpProjects\\LearnDataType\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
