@@ -1,0 +1,15 @@
+I:\new\CsharpProjects\LearnDataType\bin\Debug\net7.0\LearnDataType.exe
+I:\new\CsharpProjects\LearnDataType\bin\Debug\net7.0\LearnDataType.deps.json
+I:\new\CsharpProjects\LearnDataType\bin\Debug\net7.0\LearnDataType.runtimeconfig.json
+I:\new\CsharpProjects\LearnDataType\bin\Debug\net7.0\LearnDataType.dll
+I:\new\CsharpProjects\LearnDataType\bin\Debug\net7.0\LearnDataType.pdb
+I:\new\CsharpProjects\LearnDataType\obj\Debug\net7.0\LearnDataType.csproj.AssemblyReference.cache
+I:\new\CsharpProjects\LearnDataType\obj\Debug\net7.0\LearnDataType.GeneratedMSBuildEditorConfig.editorconfig
+I:\new\CsharpProjects\LearnDataType\obj\Debug\net7.0\LearnDataType.AssemblyInfoInputs.cache
+I:\new\CsharpProjects\LearnDataType\obj\Debug\net7.0\LearnDataType.AssemblyInfo.cs
+I:\new\CsharpProjects\LearnDataType\obj\Debug\net7.0\LearnDataType.csproj.CoreCompileInputs.cache
+I:\new\CsharpProjects\LearnDataType\obj\Debug\net7.0\LearnDataType.dll
+I:\new\CsharpProjects\LearnDataType\obj\Debug\net7.0\refint\LearnDataType.dll
+I:\new\CsharpProjects\LearnDataType\obj\Debug\net7.0\LearnDataType.pdb
+I:\new\CsharpProjects\LearnDataType\obj\Debug\net7.0\LearnDataType.genruntimeconfig.cache
+I:\new\CsharpProjects\LearnDataType\obj\Debug\net7.0\ref\LearnDataType.dll
