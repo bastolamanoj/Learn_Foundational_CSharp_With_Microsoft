@@ -129,7 +129,10 @@
                         int index = sentence.IndexOf("brown"); // Returns the index of the start of "brown".
 
 5.  String.Trim() :
-            -
+            -  is a method in C# used to remove leading and trailing whitespace (spaces, tabs, newline characters) from a string
+            -  string text = "   Hello, world!   ";
+              string trimmedText = text.Trim(); // Result: "Hello, world!"
+
 
 
 
