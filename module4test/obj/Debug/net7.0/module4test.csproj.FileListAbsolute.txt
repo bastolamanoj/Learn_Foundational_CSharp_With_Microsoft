@@ -1,0 +1,15 @@
+I:\new\CsharpProjects\module4test\bin\Debug\net7.0\module4test.exe
+I:\new\CsharpProjects\module4test\bin\Debug\net7.0\module4test.deps.json
+I:\new\CsharpProjects\module4test\bin\Debug\net7.0\module4test.runtimeconfig.json
+I:\new\CsharpProjects\module4test\bin\Debug\net7.0\module4test.dll
+I:\new\CsharpProjects\module4test\bin\Debug\net7.0\module4test.pdb
+I:\new\CsharpProjects\module4test\obj\Debug\net7.0\module4test.csproj.AssemblyReference.cache
+I:\new\CsharpProjects\module4test\obj\Debug\net7.0\module4test.GeneratedMSBuildEditorConfig.editorconfig
+I:\new\CsharpProjects\module4test\obj\Debug\net7.0\module4test.AssemblyInfoInputs.cache
+I:\new\CsharpProjects\module4test\obj\Debug\net7.0\module4test.AssemblyInfo.cs
+I:\new\CsharpProjects\module4test\obj\Debug\net7.0\module4test.csproj.CoreCompileInputs.cache
+I:\new\CsharpProjects\module4test\obj\Debug\net7.0\module4test.dll
+I:\new\CsharpProjects\module4test\obj\Debug\net7.0\refint\module4test.dll
+I:\new\CsharpProjects\module4test\obj\Debug\net7.0\module4test.pdb
+I:\new\CsharpProjects\module4test\obj\Debug\net7.0\module4test.genruntimeconfig.cache
+I:\new\CsharpProjects\module4test\obj\Debug\net7.0\ref\module4test.dll

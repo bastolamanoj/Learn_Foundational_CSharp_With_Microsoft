@@ -105,6 +105,14 @@
 
     - out
 
+3. What method should be used to search for the first occurrence of a search term in a long string? 
+
+IndexOfAny() ==> Correct. IndexOfAny() returns the first position of an array of char that occurs inside of another string.
+
+LastIndexOf() 
+
+Substring()
+
 
 # methods
 1. PadLeft()
@@ -132,9 +140,88 @@
             -  is a method in C# used to remove leading and trailing whitespace (spaces, tabs, newline characters) from a string
             -  string text = "   Hello, world!   ";
               string trimmedText = text.Trim(); // Result: "Hello, world!"
+6. Substring() : method is used to extract a portion of a string
+
+7. LastIndexOf() : returns the last position of a character or string inside of another string.
+
+8. Replace(): method is used to create a new string in which all occurrences of a specified substring or character in the original string are replaced with another specified substring or character.
+
+syntax: string newString = originalString.Replace(oldValue, newValue);
+ examples: 
+ string text = "Hello, World!";
+string newText = text.Replace("Hello", "Hi"); // "Hi, World!"
+string removedCommas = text.Replace(",", "");   // "Hello World!"
+
+
+### Perform operations on arrays using helper methods in C#
+# Methods:
+1. Sort() : to manipulate the order based on the given data type of the array. It is the method of array.
+2. Reverse() : to flip the order of the elements in the array   
+3. Clear() : The Array.Clear() method allows you to remove the contents of specific elements in your array,
+            - The Array.Clear method is used to set a range of elements in an array to their default values (i.e.,  null for reference types or zero for numeric types).
+             eg: 
+             string[] pallets = { "B14", "A11", "B12", "A13" };
+
+                // The original array is: ["B14", "A11", "B12", "A13"]
+
+                Array.Clear(pallets, 0, 2);
+
+                // After Array.Clear, the array becomes: [null, null, "B12", "A13"]
+
+
+4. Resize() : The Array.Resize() method adds or removes elements from your array.
+             - Use the Resize() method to change the number of elements in the array, removing or adding elements  from the end of the array
+
+### Format alphanumeric data for presentation in C#
 
 
 
+
+
+###  Discover padding and alignment
+1. string.Format() method is used to perform composite formatting
+2. Methods that add blank spaces for formatting purposes (PadLeft(), PadRight())
+3. Methods that compare two strings or facilitate comparison (Trim(), TrimStart(), TrimEnd(), GetHashcode(), the Length property)
+4. Methods that help you determine what's inside of a string, or even retrieve just a part of the string (Contains(), StartsWith(), EndsWith(), Substring())
+5. Methods that change the content of the string by replacing, inserting, or removing parts (Replace(), Insert(), Remove())
+6. Methods that turn a string into an array of strings or characters (Split(), ToCharArray())
+
+
+
+
+## QSN
+1. Given string myWords = "Learning C#", what is the best output description for Console.WriteLine(myWords.PadLeft(12));? 
+
+   - One space is added to the start of the string.
+    Correct. myWords is 11 characters long, adding on space completes the padding to 12.
+
+
+    - Four spaces are added to the start of the string.
+
+    - 12 spaces are added to the start of the string.
+    Incorrect. myWords is 11 characters long, with 12 spaces added the padding goes to 23.
+
+1. For the C# code Console.WriteLine("C110".PadLeft(6, '0'));, which is the expected output? 
+
+     - C11000
+
+     - C110000000
+
+     - 00C110
+2. Which format specifier presents a decimal value with the following format to an en-US audience: 12,345.67 
+
+    - 0:C
+
+    - 0:H
+
+    - 0:N2 (correct)
+3. Which character must be used as a directive to perform string interpolation? 
+
+    - $
+
+    - @
+
+    - %
 
 
 

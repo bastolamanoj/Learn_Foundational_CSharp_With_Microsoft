@@ -10,7 +10,6 @@
 - dotnet run 
 
 
-
 ## String Interpolation
 - string interpolation
 - String interpolation allows you to embed expressions (in this case, variables) within a string literal. The       expression   inside {} curly braces is evaluated, and its value is inserted into the string at that position.

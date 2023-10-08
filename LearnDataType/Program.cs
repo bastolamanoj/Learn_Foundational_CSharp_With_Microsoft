@@ -75,9 +75,6 @@
 
 
 
-
-
-
 string input = "some-text=with_underscores";
 char[] charsToFind = { '-', '=', '_' };
 
