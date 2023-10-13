@@ -1,0 +1,15 @@
+I:\new\CsharpProjects\module5_Methods\bin\Debug\net7.0\module5_Methods.exe
+I:\new\CsharpProjects\module5_Methods\bin\Debug\net7.0\module5_Methods.deps.json
+I:\new\CsharpProjects\module5_Methods\bin\Debug\net7.0\module5_Methods.runtimeconfig.json
+I:\new\CsharpProjects\module5_Methods\bin\Debug\net7.0\module5_Methods.dll
+I:\new\CsharpProjects\module5_Methods\bin\Debug\net7.0\module5_Methods.pdb
+I:\new\CsharpProjects\module5_Methods\obj\Debug\net7.0\module5_Methods.csproj.AssemblyReference.cache
+I:\new\CsharpProjects\module5_Methods\obj\Debug\net7.0\module5_Methods.GeneratedMSBuildEditorConfig.editorconfig
+I:\new\CsharpProjects\module5_Methods\obj\Debug\net7.0\module5_Methods.AssemblyInfoInputs.cache
+I:\new\CsharpProjects\module5_Methods\obj\Debug\net7.0\module5_Methods.AssemblyInfo.cs
+I:\new\CsharpProjects\module5_Methods\obj\Debug\net7.0\module5_Methods.csproj.CoreCompileInputs.cache
+I:\new\CsharpProjects\module5_Methods\obj\Debug\net7.0\module5_Methods.dll
+I:\new\CsharpProjects\module5_Methods\obj\Debug\net7.0\refint\module5_Methods.dll
+I:\new\CsharpProjects\module5_Methods\obj\Debug\net7.0\module5_Methods.pdb
+I:\new\CsharpProjects\module5_Methods\obj\Debug\net7.0\module5_Methods.genruntimeconfig.cache
+I:\new\CsharpProjects\module5_Methods\obj\Debug\net7.0\ref\module5_Methods.dll
