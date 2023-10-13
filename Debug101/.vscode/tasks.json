@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "build",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build",
+			"label": "dotnet: build"
+		},
+		{
+			"type": "dotnet",
+			"task": "watch Debug101",
+			"file": "I:\\new\\CsharpProjects\\Debug101\\Debug101.csproj",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"label": "dotnet: watch Debug101"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debugging App-123",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildApp-123",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/Debug101.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+
+        {
+            "name": "Debugging App-321",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildApp-321",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/Debug101.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        }
+
+    ]
+}

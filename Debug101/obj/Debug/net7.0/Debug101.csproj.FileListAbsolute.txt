@@ -1,0 +1,15 @@
+I:\new\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.exe
+I:\new\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.deps.json
+I:\new\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.runtimeconfig.json
+I:\new\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.dll
+I:\new\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.pdb
+I:\new\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.csproj.AssemblyReference.cache
+I:\new\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.GeneratedMSBuildEditorConfig.editorconfig
+I:\new\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.AssemblyInfoInputs.cache
+I:\new\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.AssemblyInfo.cs
+I:\new\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.csproj.CoreCompileInputs.cache
+I:\new\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.dll
+I:\new\CsharpProjects\Debug101\obj\Debug\net7.0\refint\Debug101.dll
+I:\new\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.pdb
+I:\new\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.genruntimeconfig.cache
+I:\new\CsharpProjects\Debug101\obj\Debug\net7.0\ref\Debug101.dll
